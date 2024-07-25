@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fff523777581774f8c7b0fc87af4707, type: 3}
+  m_Name: Orange
+  m_EditorClassIdentifier: 
+  raceID: 3
+  raceName: Orange
+  raceSprite: {fileID: 21300000, guid: 4d367d2a965706d4994f106f810949f4, type: 3}
+  catGameSO: {fileID: 11400000, guid: 06039869f47c5ae4dba94bc4b5ac0c88, type: 2}
